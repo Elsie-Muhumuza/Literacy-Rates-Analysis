@@ -1,6 +1,5 @@
 # Literacy-Rates-Analysis
 A comprehensive data analysis project exploring global literacy trends, demonstrating skills in data cleaning, EDA, and deriving actionable insights for social impact.
-Here's a beautiful and marketable README for your GitHub project, designed to highlight the real-world problem you addressed and your data analysis skills:
 
 -----
 
