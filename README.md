@@ -80,18 +80,16 @@ This analysis yielded critical insights that can drive strategic interventions:
   * **Seaborn:** Enhanced data visualization
 
 ##  How to Run the Project
+    
+## How to Run the Project
 
-1.  **Clone the repository:**
-    ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
-    ```
-2.  **Install dependencies:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn openpyxl # openpyxl for .xlsx files
-    ```
-3.  **Place the dataset:** Ensure the `literacy_rates_updated.xlsx` file is in the correct directory, as referenced in the notebook (e.g., `/content/drive/MyDrive/Refactory Work/literacy_rates_updated.xlsx` if running on Google Colab, or adjust path if local).
-4.  **Run the Jupyter Notebook:**
-    Open `Elsie_Literacy_rates_analysis.ipynb` in Jupyter Notebook or Google Colab and run all cells sequentially.
+## How to Run the Project
+
+To run this analysis locally, clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis.git
+cd Literacy-Rates-Analysis
+pip install -r requirements.txt
 
 -----
