@@ -1,4 +1,4 @@
-# Literacy-Rates-Analysis
+# 📚Literacy-Rates-Analysis
 A comprehensive data analysis project exploring global literacy trends, demonstrating skills in data cleaning, EDA, and deriving actionable insights for social impact.
 
 -----
@@ -19,7 +19,7 @@ While many countries boast high literacy rates, a closer look reveals persistent
 
 This analysis directly supports evidence-based decision-making for organizations striving to achieve Sustainable Development Goal 4: Quality Education.
 
-##  Dataset
+##  📊Dataset
 
 The core of this analysis is the `literacy_rates_updated.xlsx` dataset, which contains detailed information on literacy rates across various dimensions:
 
@@ -30,7 +30,7 @@ The core of this analysis is the `literacy_rates_updated.xlsx` dataset, which co
   * **Gender:** Male and female literacy rates.
   * **Literacy rate:** The numerical literacy rate.
 
-##  Methodology
+## 🛠Methodology
 
 This project employed a robust data analysis pipeline to ensure data quality and derive meaningful insights:
 
@@ -55,6 +55,10 @@ This project employed a robust data analysis pipeline to ensure data quality and
       * Analyzed literacy rates by region, highlighting high-performing and low-performing areas.
       * Examined gender-based literacy disparities over time, observing a consistent gap where female rates lagged behind male rates, despite overall improvements.
 
+4. **Visuals:**
+     * ![]().
+   
+
 ##  Key Findings & Impact
 
 This analysis yielded critical insights that can drive strategic interventions:
@@ -64,7 +68,7 @@ This analysis yielded critical insights that can drive strategic interventions:
   * **Youth Literacy Challenges:** Despite overall high youth literacy, specific regions like parts of Sub-Saharan Africa and Central/Southern Asia still face low youth literacy rates and pronounced gender gaps disadvantaging girls.
   * **Actionable Recommendations:** The findings strongly suggest that non-profit efforts should be concentrated on these low-literacy regions. Programs should be specifically designed to empower young girls and foster community engagement to ensure their continued education.
 
-##  Technologies Used
+##  🛠Technologies Used
 
   * **Python:** Programming Language
   * **Pandas:** Data manipulation and analysis
