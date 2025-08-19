@@ -56,7 +56,10 @@ This project employed a robust data analysis pipeline to ensure data quality and
       * Examined gender-based literacy disparities over time, observing a consistent gap where female rates lagged behind male rates, despite overall improvements.
 
 4. **Visuals:**
-     * ![]().
+     * ![Distribution of Literacy Rates](images/distribution_of_literacy_rates.png)
+     * ![Literacy Rates by Gender](images/literacy_rate_by_gender.png)
+     * ![Literacy Rate over Time](images/literacy_rate_trend_over_time_by_gender.png)
+     * ![Number of Records per Age Group](images/number_of_records_per_age_group.png)
    
 
 ##  Key Findings & Impact
