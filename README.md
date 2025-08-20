@@ -60,6 +60,8 @@ This project employed a robust data analysis pipeline to ensure data quality and
      * ![Literacy Rates by Gender](images/literacy_rate_by_gender.png)
      * ![Literacy Rate over Time](images/literacy_rate_trend_over_time_by_gender.png)
      * ![Number of Records per Age Group](images/number_of_records_per_age_group.png)
+  
+  [🔗View full notebook](literacy-rates-analysis.ipny)
    
 
 ##  Key Findings & Impact
@@ -79,16 +81,13 @@ This analysis yielded critical insights that can drive strategic interventions:
   * **Matplotlib:** Data visualization
   * **Seaborn:** Enhanced data visualization
 
-##  How to Run the Project
-    
-## How to Run the Project
 
 ## How to Run the Project
 
 To run this analysis locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Elsie-Muhumuza/literacy-rates-analysis.git
+git clone https://github.com/Elsie-Muhumuza/literacy_rates_analysis.git
 cd literacy-rates-analysis
 pip install -r requirements.txt
 
