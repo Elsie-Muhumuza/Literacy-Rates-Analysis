@@ -88,8 +88,8 @@ This analysis yielded critical insights that can drive strategic interventions:
 To run this analysis locally, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Elsie-Muhumuza/Literacy-Rates-Analysis.git
-cd Literacy-Rates-Analysis
+git clone https://github.com/Elsie-Muhumuza/literacy-rates-analysis.git
+cd literacy-rates-analysis
 pip install -r requirements.txt
 
 -----
